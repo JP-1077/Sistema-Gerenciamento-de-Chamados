@@ -59,4 +59,5 @@ A seguir estão as principais tecnologias, frameworks e bibliotecas utilizadas n
 
 ### **4.1 Arquitetura do Sistema**
 
-<img src="Arquitetura%20Sistema%20System%20Design.png" alt="Funcionalidades" width="600"/>
+<img src="Arquitetura%20Sistema%20%28System%20Design%29.png" alt="Funcionalidades" width="600"/>
+
