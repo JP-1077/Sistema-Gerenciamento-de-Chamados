@@ -56,3 +56,5 @@ A seguir estão as principais tecnologias, frameworks e bibliotecas utilizadas n
 #
 
 ## **✍🏽 4. System Design**
+
+### **4.1 Arquitetura do Sistema**
