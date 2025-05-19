@@ -60,11 +60,11 @@ A seguir estão as principais tecnologias, frameworks e bibliotecas utilizadas n
 ### **4.1 Arquitetura do Sistema**
 A arquitetura MVC (Model-View-Controller) separa o sistema em três camadas principais:
 
-* Model: gerencia os dados e regras de negócio, conectando-se ao banco de dados.
+* **Model:** gerencia os dados e regras de negócio, conectando-se ao banco de dados.
 
-* View: é a interface visual que o usuário interage (frontend).
+* **View:** é a interface visual que o usuário interage (frontend).
 
-* Controller: atua como intermediário entre a View e o Model, recebendo as requisições do usuário, processando e retornando respostas.
+* **Controller:** atua como intermediário entre a View e o Model, recebendo as requisições do usuário, processando e retornando respostas.
   
 <img src="Arquitetura%20Sistema%20%28System%20Design%29.png" alt="Funcionalidades" width="600"/>
 
