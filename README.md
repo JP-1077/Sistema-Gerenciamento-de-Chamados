@@ -52,3 +52,7 @@ A seguir estão as principais tecnologias, frameworks e bibliotecas utilizadas n
 | Banco de Dados        | SQLite               
 | Versionamento     | Git e GitHub         
 | Documentação   | Markdown 
+
+#
+
+## **✍🏽 4. System Design**
