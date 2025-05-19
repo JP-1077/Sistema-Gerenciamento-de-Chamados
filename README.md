@@ -68,6 +68,7 @@ A arquitetura MVC (Model-View-Controller) separa o sistema em três camadas prin
   
 <img src="Arquitetura%20Sistema%20%28System%20Design%29.png" alt="Funcionalidades" width="600"/>
 
+#
 
 ### **4.2 Funcionalidades do Sistema**
 
